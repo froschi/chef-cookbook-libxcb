@@ -8,4 +8,4 @@ version          "0.0.1"
 %w/ubuntu/.each { |os| supports os }
 
 depends          "libxau", ">= 0.0.1"
-depends          "lixdmcp", ">= 0.0.1"
+depends          "libxdmcp", ">= 0.0.1"
