@@ -1,5 +1,5 @@
 include_recipe "libxau"
-include_recipe "lixdmcp"
+include_recipe "libxdmcp"
 
 packages = %w/
   libxcb1
